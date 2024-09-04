@@ -1,15 +1,15 @@
 # Donut Collection Design
 
-![Vista previa del diseño](Project-2.png)
+![Design Preview](Project-2.png)
 
-## Descripción
+## Description
 
-Este proyecto es una colección de diseños de donuts realizados en Figma, cada uno inspirado por un sabor diferente: **Blueberry**, **Green Apple**, y **Caramel**. La composición visual combina colores vibrantes con elementos naturales (hojas verdes) para transmitir frescura y vitalidad en cada diseño.
+This project is a collection of donut designs created in Figma, each inspired by a different flavor: **Blueberry**, **Green Apple**, and **Caramel**. The visual composition combines vibrant colors with natural elements (green leaves) to convey freshness and vitality in each design.
 
-- **Blueberry Donut:** 
-- **Green Apple Donut:** 
-- **Caramel Donut:**
-  
-## Herramientas Utilizadas
+- **Blueberry Donut:** A donut covered with vibrant purple blueberry glaze, decorated with small pieces of blueberries.
+- **Green Apple Donut:** A donut with a bright green glaze, decorated with small candies representing the fresh flavor of green apple.
+- **Caramel Donut:** A donut covered with smooth orange caramel glaze and decorative caramel chunks.
 
-- **Figma:** Todo el diseño fue realizado en Figma, utilizando las capacidades de auto-layout y manipulación de capas.
+## Tools Used
+
+- **Figma:** The entire design was created in Figma, utilizing the auto-layout feature and layer manipulation capabilities.
